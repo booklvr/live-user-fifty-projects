@@ -1,8 +1,8 @@
 import React from 'react'
-import placeholder from './components/placeholder'
+import LiveUser from './components/LiveUser'
 
 const App = () => {
-  return <placeholder />
+  return <LiveUser />
 }
 
 export default App
